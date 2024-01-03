@@ -27,7 +27,7 @@ Welcome to the Brick Breaker Game, a classic arcade-style game written in x86 as
 
 1. Clone the repository:
    ```bash
-   git clone [(https://github.com/Zainabohlic/Brick-Breaker-Game)]
+   git clone https://github.com/Zainabohlic/Brick-Breaker-Game
 2. Run the game in a DOS emulator like DOSBox.
 
 ## Controls
