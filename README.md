@@ -40,6 +40,21 @@ Welcome to the Brick Breaker Game, a classic arcade-style game written in x86 as
 1. **Mount Directory:**
    ```bash
    mount c path/to/your/asm/files
- 
+
+2. **Change to Mounted Directory:**
+   ```bash
+   c:
+
+3. **Assemble ASM File (using TASM as an example):**
+   ```bash
+   tasm lz.asm
+   
+4. **Link Object File (using TLINK as an example):**
+   ```bash
+   tlink yourfile.obj
+
+ 5. **Run Executable:**
+    ```bash
+    lz.exe
 
 
