@@ -51,10 +51,11 @@ Welcome to the Brick Breaker Game, a classic arcade-style game written in x86 as
    
 4. **Link Object File (using TLINK as an example):**
    ```bash
-   tlink yourfile.obj
+   tlink lz.obj
 
  5. **Run Executable:**
     ```bash
     lz.exe
 
+## Happy Gaming!
 
